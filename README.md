@@ -25,7 +25,7 @@ Flow separator:
 
 **Dimensions:**
 
-![alt_text](images/draw_1.png "image_tooltip")
+<div align="center">![alt_text](images/draw_1.png "image_tooltip")</div>
 
 
 **Prototype Circuit:**
@@ -43,4 +43,4 @@ Flow separator:
 *   Depending on the ambient temperature, about 10 seconds of Warm up time needed.
 *   Noise shielding is necessary on the final circuit.
 
-**Use it at your own risk. Good Luck.**
+<div align="center">**Use it at your own risk. Good Luck.**</div>
