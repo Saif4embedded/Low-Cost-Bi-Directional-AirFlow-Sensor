@@ -38,7 +38,7 @@ Flow separator:
 
 
 *   If you make this circuit on a breadboard, take care of parasitic capacitance, contact resistance and ground loops.
-*   Both diodes (1N4148) and 10R 1W resistor will heat up. This is normal.
+*   Both diodes (1N4148) and 10R 2W resistor will heat up. This is normal.
 *   External Temperature Compensation may be needed.
 *   Depending on the ambient temperature, about 10 seconds of Warm up time needed.
 *   Noise shielding is necessary on the final circuit.
