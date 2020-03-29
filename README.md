@@ -1,7 +1,7 @@
-![alt_text](images/Low-Cost0.png "image_tooltip")
+![alt_text](images/sch_1.png "image_tooltip")
 
 
-[DemoVideo.](https://www.youtube.com/watch?v=aSJlc7u3Vi4)
+[DemoVideo](https://www.youtube.com/watch?v=aSJlc7u3Vi4)
 
 **Introduction:**
 
